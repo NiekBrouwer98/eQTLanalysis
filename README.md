@@ -35,7 +35,7 @@
 
 In this project you will find the code accompanying my Bachelor thesis. The report of this research can be requested via the contact details below. 
 
-This gitlab project consists of four directories:
+This project consists of four directories:
 
 * **Data preprocessing**
 * **Classification**
